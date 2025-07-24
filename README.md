@@ -1,0 +1,2 @@
+# ComfyUI_MaskImagePlacement
+适用于ComfyUI的图像通过遮罩（图片）匹配的节点插件，他可以通过获得的遮罩图像，把带Alpha通道的图像匹配到遮罩区域内，实现替换背景图像内容的一个基础功能
